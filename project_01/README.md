@@ -25,7 +25,8 @@ The LCD display is an i2c device, so in the linux terminal the permissions can b
   sudo chmod 666 i2c*
 
 The sensors and potentiometer pass data to the main driver, which communicates with the LCD display as well as the buzzer for the outputs.
-The potentiometer can be rotated to change voltage level, which controls the LCD. The sensors are not interacted with and collect data.
+The potentiometer can be rotated to change voltage level, which controls the LCD. The user does not interact with the sensor and they 
+simply collect data.
 
 The program can be made by adding the following line to the cronlog:
 @reboot sleep 30 && bash /var/lib/cloud9/ENGI301/python/plant_care_device/run > /var/lib/cloud9/logs/cronlog 2>&1
