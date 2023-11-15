@@ -105,7 +105,7 @@ class Moisture_Sensor():
         Returns the soil moisture percentage
         """
         
-        return ((self.get_value() - 1360) / 2700) * 100
+        return 100 - (((self.get_value() - 1360) / 2700) * 100)
         
     # end def
 
