@@ -47,12 +47,6 @@ config-pin P2_04 gpio
 config-pin P2_06 gpio
 config-pin P2_08 gpio
 
-# Potentiometer
-# config-pin P1_19 ADC
-
-# Moisture Sensor
-# config-pin P2_28 ADC
-
 # Temp/Humidity Sensor
 config-pin P2_09 i2c
 config-pin P2_11 i2c
