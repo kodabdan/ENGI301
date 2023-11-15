@@ -115,7 +115,7 @@ class Plant_Care_Device():
         elif data == 1:
             datavalue = str(round(aht10.temperature*(9/5)+32,0))
         elif data == 2:
-            datavalue = str(round(aht10.relative_humidity,0))
+            datavalue = str(round(aht10.relative_humidity,0)) + "%"
             
         return datavalue
             
