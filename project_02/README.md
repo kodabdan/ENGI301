@@ -4,7 +4,7 @@ This project consists of a 4-layer PCB designed by Brendan Hlibok using EAGLE so
 The PCB functions as an etch-a-sketch when manufactured. More specific information on this can be found in the
 powerpoint presentation under project_02/docs.
 
-The library, schematic, and board layout files can be found in the "EAGLE" folder, and the gerber files for manufacturing
+The board is 4" tall and 5" wide. The library, schematic, and board layout files can be found in the "EAGLE" folder, and the gerber files for manufacturing
 the PCB. The "docs" folder contains descriptive information such as images of important layers, the schematics,
 the board layout, and a bill of materials for the product. The bill of materials is in .txt and .csv format, where the .txt
 file came straight from the EAGLE software, and the excel file has specific component parts and descriptions.
