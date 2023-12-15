@@ -6,8 +6,10 @@ powerpoint presentation under project_02/docs.
 
 The library, schematic, and board layout files can be found in the "EAGLE" folder, and the gerber files for manufacturing
 the PCB. The "docs" folder contains descriptive information such as images of important layers, the schematics,
-the board layout, and a bill of materials for the product. The bill of materials is in .txt and .csv format, for versatility
-in readability and to open it in excel.
+the board layout, and a bill of materials for the product. The bill of materials is in .txt and .csv format, where the .txt
+file came straight from the EAGLE software, and the excel file has specific component parts and descriptions.
+
+The board file can be uploaded to manufacturing sites to check quotes for building the board.
 
 This project was completed as a part of the ENGI 301 course at Rice University taught by Erik Welsh, who designed the circuit
 for the PCB in this file. 
