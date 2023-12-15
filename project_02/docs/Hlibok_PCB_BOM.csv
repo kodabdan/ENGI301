@@ -1,0 +1,11 @@
+Designator,Quantity,Manufacturer/MPN,Description
+0.1 ohm Resistor,1,Ohmite,Wirewound Resistors - Through Hole 10watt .1ohm 5%
+1k ohm Resistor,2,YAGEO,"1 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Metal Film"
+Blue LED,1,Würth Elektronik,Blue 470nm LED Indication - Discrete 3.2V Radial
+Red LED,1,SunLED,Red 640nm LED Indication - Discrete 2.1V Radial
+Green LED,1,SunLED,Green 525nm LED Indication - Discrete 3.2V Radial
+PocketBeagle,1,BeagleBoard by Seeed Studio,OSD3358 PocketBeagle - ARM® Cortex®-A8 MPU Embedded Evaluation Board
+Potentiometer,2,Bourns Inc.,"10k Ohm 1 Gang Linear Through Hole, Snap In Potentiometer None 1.0 Kierros Carbon 0.05W, 1/20W PC Pins, Board Locks"
+Button,2,Omron Electronics Inc- EMC Div,Tactile Switch SPST-NO Top Actuated Through Hole
+LCD Screen,1,Adafruit,"2.8"" Capactive Touch LCD Screen"
+USB-A1HSW6,1,On Shore Technology Inc.,"USB-A (USB TYPE-A) Receptacle Connector 4 Position Through Hole, Right Angle"
